@@ -1,0 +1,490 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://e6204d3c-943b-4011-b6f8-d32d4721ab33",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://172e0c39-6c76-4977-9256-70418f6c7ee4",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://26bcb3c5-24d2-49d2-94c4-fc9728bdc642",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4546,
+					"width": 2839,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ce41e42b-d8a5-4827-a048-66842da50839",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_va_07649.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_va_07649.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4546,
+								"width": 2839
+							},
+							"on": "http://26bcb3c5-24d2-49d2-94c4-fc9728bdc642"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fae2ecce-4c59-4b81-9d05-3b16d4daadd9",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4537,
+					"width": 2856,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4e29cb62-f5d4-4006-a7cc-f52610285136",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_ra_07647.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_ra_07647.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4537,
+								"width": 2856
+							},
+							"on": "http://fae2ecce-4c59-4b81-9d05-3b16d4daadd9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://867c7ae1-c1ae-4ffb-85b9-d203c7e35e08",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4539,
+					"width": 2853,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://083d1fd2-ceff-43d6-86cd-05b5c33b1fde",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_rd_07648.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_rd_07648.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4539,
+								"width": 2853
+							},
+							"on": "http://867c7ae1-c1ae-4ffb-85b9-d203c7e35e08"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f1c58739-aa2d-4cc1-867e-a39fbc9e9778",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4546,
+					"width": 2839,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9c0c1409-0e66-4b5f-8468-dde29345d213",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_va_07649.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_109_va_07649.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4546,
+								"width": 2839
+							},
+							"on": "http://f1c58739-aa2d-4cc1-867e-a39fbc9e9778"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ad2927f2-4cf0-4594-b8ca-2b065dc96679",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4485,
+					"width": 2839,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cadd5fb7-9130-42f7-a044-9767f774ed5d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_110_ra_07650.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_110_ra_07650.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4485,
+								"width": 2839
+							},
+							"on": "http://ad2927f2-4cf0-4594-b8ca-2b065dc96679"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ce81ca4b-cefa-47b0-a1e1-e8c47b40806b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4464,
+					"width": 2820,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://97a3b6e2-3e7b-4286-8cdc-d00681daed20",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_110_rd_07651.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_110_rd_07651.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4464,
+								"width": 2820
+							},
+							"on": "http://ce81ca4b-cefa-47b0-a1e1-e8c47b40806b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cbbd2ee4-858a-4771-86b6-3ef22c030111",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4485,
+					"width": 2866,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b87687a3-7871-462e-a10c-5fcb61fb6897",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_110_va_07652.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_110_va_07652.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4485,
+								"width": 2866
+							},
+							"on": "http://cbbd2ee4-858a-4771-86b6-3ef22c030111"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7ccb1917-9c67-4517-a0bc-f3b2548121e3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4503,
+					"width": 2821,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://abf65000-8f23-4785-9991-bb8179ba1850",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_111_ra_07653.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_111_ra_07653.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4503,
+								"width": 2821
+							},
+							"on": "http://7ccb1917-9c67-4517-a0bc-f3b2548121e3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e33d0f7f-4a21-401d-83e4-473a4dedbe80",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4480,
+					"width": 2787,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a68e9f61-db40-410b-b739-0be3e7a260fe",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_111_rd_07654.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_111_rd_07654.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4480,
+								"width": 2787
+							},
+							"on": "http://e33d0f7f-4a21-401d-83e4-473a4dedbe80"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8d7ae2d5-445b-4565-b364-6bef7d2a4ef6",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4529,
+					"width": 2856,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://eb034d47-3f84-49eb-bbe3-ceb4b40caea6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_111_va_07655.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digilib.bbaw.de/digitallibrary/servlet/Scaler/IIIF/silo10!Leibniz8!tripleIF!LH035!LH035_14_02_111_va_07655.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"mirroring",
+												"rotationArbitrary",
+												"sizeAboveFull"
+											]
+										}
+									]
+								},
+								"height": 4529,
+								"width": 2856
+							},
+							"on": "http://8d7ae2d5-445b-4565-b364-6bef7d2a4ef6"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
